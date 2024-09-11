@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narash Kumar</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🌱 I’m currently learning **Spring,Springboot**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **narashworks@gmail.com**
 
